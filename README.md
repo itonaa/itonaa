@@ -1,16 +1,18 @@
-### Hi there 👋
+### Itona
 
-<!--
-**itonaa/itonaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am experienced in:
+- mkdir 
+- rmdir
+- ls
+- cd
+- cd ..
+- docker compose up
+- docker compose up -d
+- docker compose down
+- docker ps
+- docker logs -f
+- nano 
+- neofetch
 
-Here are some ideas to get you started:
+Google should hire me asap!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
