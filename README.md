@@ -11,6 +11,7 @@ I am experienced in:
 - docker compose down
 - docker ps
 - docker logs -f
+- docker compose push
 - nano 
 - neofetch
 
